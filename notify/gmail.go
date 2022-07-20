@@ -22,8 +22,6 @@ func (g Gmail) Send() error {
 		return err
 	}
 	return nil
-
-	return nil
 }
 
 func (g Gmail) body() []byte {
