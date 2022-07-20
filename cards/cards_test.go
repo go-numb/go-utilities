@@ -9,7 +9,6 @@ import (
 	"math/rand"
 
 	"github.com/stretchr/testify/assert"
-	b21 "gitlab.com/k-terashima/code/cards"
 )
 
 func TestNewCards(t *testing.T) {
